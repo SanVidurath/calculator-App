@@ -3,6 +3,7 @@ import { useState, useEffect, useCallback, useMemo } from "react";
 import { StyledGrid, StyledButton } from "./Styles";
 import * as math from "mathjs";
 import "./index.css";
+import React from "react";
 
 const App = () => {
   const [inputExpression, setInputExpression] = useState("");
