@@ -1,9 +1,12 @@
 # Calculator App 
 
-A calculator app
+## Overview
+A simple calculator app
 
 ## Technologies Used
-* HTML5
-* CSS3
 * React Typescript
 * Javascript
+* HTML5
+* CSS3
+
+
